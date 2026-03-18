@@ -1,23 +1,34 @@
-# Language Modelling
+# Language Modelling 
 
 ## Overview
 
-This repository contains experimental implementations and research notes related to the foundational concepts of modern language modeling. The work explores computational representations of text and the training of neural architectures for sequence prediction tasks.
+The focus of this repo is practical implementation + research understanding of modern language models (LMs), including building, training, fine-tuning, and aligning models from scratch
 
-## Scope
+## Objectives
 
-Current work focuses on core components of language model development, including:
+* Developing a good research foundation 
+* Learning and building things from First Principles ❤️
+* Apply research thinking to solve real-world problems 
 
-* Corpus preprocessing and text normalization
-* Tokenization and vocabulary construction
-* Statistical and neural representations of language data
-* Training neural sequence models
-* Exploration of transformer-based architectures
 
-## Objective
 
-The goal of this repository is to systematically study and implement the fundamental building blocks underlying contemporary large language models.
+## Things I Will Be Exploring
 
-## Status
+1. Building Small Language Model
+2. Representing Language Data
+3. Designing and Training Neural Networks
+4. Discovering Transformer Architecture
+5. Finetuning model
+6. Aligning model
+7. Accelerating model
 
-Work in progress. The repository will progressively include experiments, implementation notes, and model development aligned with the AI Research Foundations curriculum.
+## Notes
+
+* Training a full LLM is computationally expensive → focus is on **Small Language Models (SLMs)**
+* Concepts scale directly from SLM → LLM
+
+## Acknowledgement 🙏
+
+* Google DeepMind — AI Research Foundations
+* Research papers on Transformers, language models, and alignment
+
